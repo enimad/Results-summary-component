@@ -1,0 +1,28 @@
+body {
+    font-family: 'Hanken Grotesk', sans-serif;
+    min-height: 100vh;
+    text-align: center;
+    display: grid;
+    align-content: space-between;
+    margin: 0;
+}
+
+h1 {
+    font-size: medium;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: auto;
+    box-shadow: 16px 13px 39px 4px rgba(84, 84, 84, 0.25)
+}
+
+.result-card {
+    background-color: blueviolet;
+}
+
+.solo-score {
+    display: flex;
+}
