@@ -1,4 +1,4 @@
-# Frontend Mentor - QR code component
+# Frontend Mentor - Results summary component
 
 ![Desktop design preview for the Results summary component coding challenge](./design/desktop-preview.jpg)
 
